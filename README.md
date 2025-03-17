@@ -5,7 +5,7 @@
 
 Ce dossier regroupe des extraits d'applications développées les domaines de l'analyse financière et du reporting, du développement durable, ou autre projets personnels :
 
-1. **Automatisation du reporting financier**: Un script Python permettant d'extraire, nettoyer et analyser des données financières
+1. **Automatisation du reporting financier**: Un script Python permettant d'extraire, nettoyer et analyser des données financières `reporting_automation.py`
 2. **Dashboard Power BI**: Un tableau de bord interactif pour visualiser et analyser les performances financières et ESG
 3. **Dashboard Dash/Render**: Présentation visuelle d'une étude de marché dans le secteur des PropTech
 4. **Accounting calculator Python**: Création d'un outil d'aide au lettrage comptable.
