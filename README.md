@@ -1,8 +1,10 @@
-# portfolio adeline
-<img width='25%' src='https://images.unsplash.com/photo-1568304955288-e5c3b26bb813?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'/>
-*source: louis-endelicher-azo3P0i2Dns-unsplash.jpg*
+# PORTFOLIO - Adeline
 
-**Description**
+<img width='25%' src='https://images.unsplash.com/photo-1568304955288-e5c3b26bb813?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'/>
+source: *louis-endelicher-azo3P0i2Dns-unsplash.jpg*
+
+
+## **Description**
 
 Ce dossier regroupe des extraits d'applications développées les domaines de l'analyse financière et du reporting, du développement durable, ou autre projets personnels :
 
