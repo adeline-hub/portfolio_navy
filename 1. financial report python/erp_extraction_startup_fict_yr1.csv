@@ -1,0 +1,53 @@
+﻿RUBRIQUES ,Mois ,Unit ,HR Number,RUBRIQUES,Activité du mois - Budget,Activité du mois - Réalisé,Activité du mois - Ecart,Activité exercice - Budget,Activité exercice - Réalisé,Activité exercice - Ecart,Budget annuel
+AFFAIRE FACTURABLE,Décembre,AP,202501,AFFAIRE FACTURABLE,,,,,,,
+Total main d'oeuvre,Décembre,AP,202501,Total main d'oeuvre,58333,73500,15167,700000,490000,-210000,700000
+% M.O. / P.R.I.,Décembre,AP,202501,% M.O. / P.R.I.,0,0,0,0,0,0,
+Total Achat,Décembre,AP,202501,Total Achat,8333,7000,-1333,100000,70000,-30000,100000
+Total Sous-Traitance,Décembre,AP,202501,Total Sous-Traitance,8333,7000,-1333,100000,70000,-30000,100000
+Autres Coûts,Décembre,AP,202501,Autres Coûts,0,0,0,0,0,0,0
+% DEPENSES / P.R.I.,Décembre,AP,202501,% DEPENSES / P.R.I.,0,0,0,0,0,0,0
+Prix revient intermédiaire,Décembre,AP,202501,Prix revient intermédiaire,75000,63000,-12000,900000,630000,-270000,900000
+Prix revient intermédiaire hors ST Intra société,Décembre,AP,202501,Prix revient intermédiaire hors ST Intra société,75000,63000,-12000,900000,630000,-270000,900000
+Frais de devis sans suite,Décembre,AP,202501,Frais de devis sans suite,0,0,0,0,0,0,0
+% DSS / P.R.I (Hors ST),Décembre,AP,202501,% DSS / P.R.I (Hors ST),0,0,0,0,0,0,0
+Frais financiers,Décembre,AP,202501,Frais financiers,0,0,0,0,0,0,0
+% F.F. / P.R.I.,Décembre,AP,202501,% F.F. / P.R.I.,0,0,0,0,0,0,0
+Frais redevance groupe,Décembre,AP,202501,Frais redevance groupe,0,0,0,0,0,0,0
+Coûts Sociaux / Procès travaillistes,Décembre,AP,202501,Coûts Sociaux / Procès travaillistes,0,0,0,0,0,0,0
+Prix revient total,Décembre,AP,202501,Prix revient total,83333,70000,-13333,1000000,700000,-300000,1000000
+Facturation intra / VE,Décembre,AP,202501,Facturation intra / VE,0,0,0,0,0,0,0
+Facturation Totale,Décembre,AP,202501,Facturation Totale,91667,77000,-14667,1100000,770000,-330000,1100000
+Résultat (Ecart facturation),Décembre,AP,202501,Résultat (Ecart facturation),8333,7000,-1333,100000,70000,-30000,100000
+Encaissement interne,Décembre,AP,202501,Encaissement interne,0,0,0,0,0,0,0
+Encaissement externe,Décembre,AP,202501,Encaissement externe,0,0,0,0,0,0,0
+Trésorerie générée / PRT,Décembre,AP,202501,Trésorerie générée / PRT,0,0,0,0,0,0,0
+Ouverture B.A. en PR,Décembre,AP,202501,Ouverture B.A. en PR,0,0,0,0,0,0,0
+Ouverture B.A en PV,Décembre,AP,202501,Ouverture B.A en PV,0,0,0,0,0,0,0
+AFFAIRE EN PASSAGE,Décembre,AP,202501,AFFAIRE EN PASSAGE,,,,,,,
+Prix revient intermédiaire,Décembre,AP,202501,Prix revient intermédiaire,0,0,0,0,0,0,0
+Frais financiers,Décembre,AP,202501,Frais financiers,0,0,0,0,0,0,0
+% F.F. / P.R.I.,Décembre,AP,202501,% F.F. / P.R.I.,0,0,0,0,0,0,0
+Prix revient total,Décembre,AP,202501,Prix revient total,0,0,0,0,0,0,0
+Facturation intra / VE,Décembre,AP,202501,Facturation intra / VE,0,0,0,0,0,0,0
+Facturation externe,Décembre,AP,202501,Facturation externe,0,0,0,0,0,0,0
+Facturation Totale,Décembre,AP,202501,Facturation Totale,0,0,0,0,0,0,0
+Résultat (Ecart facturation),Décembre,AP,202501,Résultat (Ecart facturation),0,0,0,0,0,0,0
+Encaissement interne,Décembre,AP,202501,Encaissement interne,0,0,0,0,0,0,0
+Encaissement externe,Décembre,AP,202501,Encaissement externe,0,0,0,0,0,0,0
+Ouverture B.A. en PR,Décembre,AP,202501,Ouverture B.A. en PR,0,0,0,0,0,0,0
+Ouverture B.A en PV,Décembre,AP,202501,Ouverture B.A en PV,0,0,0,0,0,0,0
+TOTAL,Décembre,AP,202501,TOTAL,,,,,,,
+Prix revient intermédiaire,Décembre,AP,202501,Prix revient intermédiaire,75000,63000,-12000,900000,630000,-270000,900000
+Frais financiers,Décembre,AP,202501,Frais financiers,0,0,0,0,0,0,0
+% F.F. / P.R.I.,Décembre,AP,202501,% F.F. / P.R.I.,0,0,0,0,0,0,0
+Prix revient total,Décembre,AP,202501,Prix revient total,83333,70000,-13333,1000000,700000,-300000,1000000
+Facturation interne,Décembre,AP,202501,Facturation interne,0,0,0,0,0,0,0
+Facturation externe,Décembre,AP,202501,Facturation externe,91667,77000,-14667,1100000,770000,-330000,1100000
+Facturation Totale,Décembre,AP,202501,Facturation Totale,91667,77000,-14667,1100000,770000,-330000,1100000
+Résultat (Ecart facturation),Décembre,AP,202501,Résultat (Ecart facturation),8333,7000,-1333,100000,70000,-30000,100000
+Encaissement interne,Décembre,AP,202501,Encaissement interne,0,0,0,0,0,0,0
+Encaissement externe,Décembre,AP,202501,Encaissement externe,0,0,0,0,0,0,0
+Ouverture B.A. en PR,Décembre,AP,202501,Ouverture B.A. en PR,0,0,0,0,0,0,0
+Ouverture B.A en PV,Décembre,AP,202501,Ouverture B.A en PV,0,0,0,0,0,0,0
+DEVIS,Décembre,AP,202501,DEVIS,0,0,0,0,0,0,0
+Sur/ Sous imputations devis,Décembre,AP,202501,Sur/ Sous imputations devis,0,0,0,0,0,0,0
